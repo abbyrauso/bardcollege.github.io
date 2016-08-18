@@ -45,7 +45,7 @@ var rules = {
   ],
   "~*x sorry ~*y": [
     "Apologies are not necessary",
-    "Sorry doesn't swweten my tea"
+    "Sorry doesn't sweeten my tea"
   ],
   "~*x I remember ~*y": [
     "Do you often think of ~y?",
